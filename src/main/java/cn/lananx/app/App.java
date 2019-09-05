@@ -1,7 +1,7 @@
 package cn.lananx.app;
 
 public class App {
-    private String app="WWWWW";
+    private String app="WC WC";
     public String getApp() {
         return app;
     }
