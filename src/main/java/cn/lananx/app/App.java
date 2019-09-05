@@ -1,7 +1,7 @@
 package cn.lananx.app;
 
 public class App {
-    private String app="谢谢";
+    private String app="thinks";
     public String getApp() {
         return app;
     }
