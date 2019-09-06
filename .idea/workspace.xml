@@ -7,7 +7,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="097a354c-700b-4d1d-9164-fdfb5c219b7f" name="Default Changelist" comment="iiIII">
+    <list default="true" id="097a354c-700b-4d1d-9164-fdfb5c219b7f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/cn/lananx/app/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/lananx/app/App.java" afterDir="false" />
     </list>
@@ -73,8 +73,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/cn/lananx/app/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+            <state relative-caret-position="27">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
               <folding>
                 <element signature="e#103#104#0" expanded="true" />
                 <element signature="e#129#130#0" expanded="true" />
@@ -434,7 +434,7 @@
       <updated>1567644603770</updated>
       <workItem from="1567644608482" duration="9277000" />
       <workItem from="1567732504950" duration="1842000" />
-      <workItem from="1567753779214" duration="1365000" />
+      <workItem from="1567753779214" duration="2984000" />
     </task>
     <task id="LOCAL-00001" summary="一次">
       <created>1567647961791</created>
@@ -534,7 +534,21 @@
       <option name="project" value="LOCAL" />
       <updated>1567757292514</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="HW">
+      <created>1567758398290</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1567758398290</updated>
+    </task>
+    <task id="LOCAL-00016" summary="黑色">
+      <created>1567758922629</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1567758922629</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -546,7 +560,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12484000" />
+    <option name="totallyTimeSpent" value="14103000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="11" y="19" width="1400" height="820" extended-state="0" />
@@ -602,7 +616,9 @@
     <MESSAGE value="谢谢" />
     <MESSAGE value="you" />
     <MESSAGE value="yes" />
-    <option name="LAST_COMMIT_MESSAGE" value="yes" />
+    <MESSAGE value="HW" />
+    <MESSAGE value="黑色" />
+    <option name="LAST_COMMIT_MESSAGE" value="黑色" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -633,8 +649,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/lananx/app/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+        <state relative-caret-position="27">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
           <folding>
             <element signature="e#103#104#0" expanded="true" />
             <element signature="e#129#130#0" expanded="true" />
